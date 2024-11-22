@@ -1,3 +1,5 @@
+package dummyweb.adapter;
+
 import org.soulspace.overarch.java.OverarchNode;
 
 /**

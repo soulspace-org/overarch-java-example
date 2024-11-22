@@ -6,4 +6,5 @@
   ;:source-paths ["src/main/clojure"]
   ;:resource-paths ["resources"]
   :java-source-paths ["src/main/java"]
+  :java-test-paths ["src/test/java"]
   )
