@@ -3,6 +3,8 @@ A small example for using Overarch java annotations on a project to generate Ove
 
 *draft*
 
+![GitHub](https://img.shields.io/github/license/soulspace-org/overarch-java-example)
+
 ## Build
 Currently [leiningen](https://leiningen.org) is used to build the overarch-java-example.
 

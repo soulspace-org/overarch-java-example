@@ -1,4 +1,7 @@
 (defproject org.soulspace/overarch-java-example "0.1.0-SNAPSHOT"
+  :license {:name "Eclipse Public License"
+            :url  "http://www.eclipse.org/legal/epl-v10.html"}
+
   :dependencies [[org.soulspace/overarch-java-annotations "0.1.0-SNAPSHOT"]
                  [org.soulspace/overarch-java "0.1.0-SNAPSHOT"]
                  ;[org.clojure/clojure "1.12.0"]
