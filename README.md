@@ -3,6 +3,14 @@ A small example for using Overarch java annotations on a project to generate Ove
 
 *draft*
 
+## Build
+Currently [leiningen](https://leiningen.org) is used to build the overarch-java-example.
+
+For a local build and generation of the `model.edn` file use
+```
+lein jar
+```
+
 ## Copyright
 © 2024 Ludger Solbach
 
