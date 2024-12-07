@@ -10,7 +10,7 @@ import example.user.domain.User;
 /**
  * Interface for user repository implementations.
  */
-@OverarchNode(el = "interface")
+@OverarchNode(el = "interface", id = "example.user.application/i-user-repository")
 public interface IUserRepository {
 
     /**

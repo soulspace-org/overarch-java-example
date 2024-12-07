@@ -9,7 +9,7 @@ import example.user.domain.User;
 /**
  * Implements the use cases of the user management component
  */
-@OverarchNode(el = "class" /*, id = "my/id" */)
+@OverarchNode(el = "class", id = "example.user.application/user-service")
 public class UserService {
     public User createUser(String firstname, String lastName, String email) {
         // TODO implement
