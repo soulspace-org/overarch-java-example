@@ -7,7 +7,7 @@ import example.user.application.UserService;
 /**
  * This is the REST service for dummies.
  */
-@OverarchNode(el = "class", id = "example.user.adapter/rest-adapter")
+@OverarchNode
 public class RestAdapter {
     UserService userService;
 
