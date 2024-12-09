@@ -7,7 +7,7 @@ import org.soulspace.overarch.java.OverarchNode;
 /**
  * User entity
  */
-@OverarchNode(el = "class", id = "example.user.domain/user")
+@OverarchNode
 public class User {
 
     /** Id of the user. */
