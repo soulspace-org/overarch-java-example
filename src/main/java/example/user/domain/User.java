@@ -13,6 +13,9 @@ public class User {
     /** Id of the user. */
     UUID id;
 
+    /** Type of the user */
+    UserType userType; 
+
     /** First name of the user. */
     String firstName;
 
