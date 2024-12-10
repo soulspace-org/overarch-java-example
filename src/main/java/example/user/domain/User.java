@@ -7,7 +7,7 @@ import org.soulspace.overarch.java.OverarchNode;
 /**
  * User entity
  */
-@OverarchNode
+@OverarchNode(tags = {"aggregate", "entity"})
 public class User {
 
     /** Id of the user. */
@@ -20,6 +20,6 @@ public class User {
     String lastName;
 
     /** Email of the user. */
-    String email;
+    EMail email;
 
 }
